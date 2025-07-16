@@ -101,6 +101,8 @@ Edit
 sudo systemctl disable dummy
 📁 Recommended Repo Structure
 Copy
+
+This is the project link: https://roadmap.sh/projects/dummy-systemd-service
 Edit
 dummy-systemd-service/
 ├── dummy.sh
